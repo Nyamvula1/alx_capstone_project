@@ -1,5 +1,5 @@
 # TASK MANAGER APPLICATION #
-![link](IMAGES/task%20manager%20logo.png)<<img src="IMAGES/task manager logo.png" width="200" height="100">>
+![link](<img src="IMAGES/task manager logo.png" width="200" height="100">)
 
 ## PROJECT OVERVIEW ##
  In this project, I am going to create an application that creates, edits , updates and delete tasks.
