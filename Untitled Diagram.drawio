@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T11:57:11.194Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="_Az8cnWcsN9DV6gYnVgK" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T12:01:24.569Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7IrMvYV--Zx-XFovEGo7" version="24.0.5" type="github">
   <diagram name="Page-1" id="wMLE0tIsIC202dqbpszQ">
     <mxGraphModel dx="739" dy="429" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -32,7 +32,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HAD_2hMKVVcNXXyn7F_C-7" value="Form for adding a task is displayed" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="220" width="130" height="110" as="geometry" />
+          <mxGeometry x="470" y="200" width="130" height="135" as="geometry" />
         </mxCell>
         <mxCell id="HAD_2hMKVVcNXXyn7F_C-8" value="New task is created with the entered details" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="520" width="210" height="60" as="geometry" />
