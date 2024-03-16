@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-16T12:13:03.300Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="JleXDjgFYy4rcJFT9kS3" version="24.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-16T12:17:14.421Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="oIzUsoIk6_07Ew2VKL9M" version="24.0.5" type="github">
   <diagram name="Page-1" id="wMLE0tIsIC202dqbpszQ">
     <mxGraphModel dx="665" dy="386" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAD_2hMKVVcNXXyn7F_C-1" value="start" style="ellipse;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="200" y="20" width="120" height="80" as="geometry" />
+          <mxGeometry x="170" y="20" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="HAD_2hMKVVcNXXyn7F_C-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="1" source="HAD_2hMKVVcNXXyn7F_C-2" target="HAD_2hMKVVcNXXyn7F_C-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HAD_2hMKVVcNXXyn7F_C-2" value="User clicks on Add task" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#F2CC8F;strokeColor=#E07A5F;fontColor=#393C56;" parent="1" vertex="1">
-          <mxGeometry x="210" y="180" width="120" height="60" as="geometry" />
+          <mxGeometry x="170" y="180" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="HAD_2hMKVVcNXXyn7F_C-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#E07A5F;fontColor=default;" parent="1" source="HAD_2hMKVVcNXXyn7F_C-5" target="HAD_2hMKVVcNXXyn7F_C-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
