@@ -8,6 +8,7 @@
 The system functions by adding tasks,
 the task title, description and the due date. It allows for the editing of the task, deletion of the task and marking the task completed by clicking of the checkbox.
 These tasks are saved to local storage.
+The tasks can be cleared by clicking the clear All tasks button which deletes all tasks in the list of tasks.
 
 ## TECHNOLOGIES USED ##
  HTML- forms and front end rendering
