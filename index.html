@@ -20,8 +20,8 @@
     </header>
     <!--section form-->
     <section class="body">
-        <div class="container-1">
-            <button onclick="toggleForm()">Add Task</button>
+        <div>
+            <button class = "button-1" onclick="toggleForm()">Add Task</button>
         </div>
         <form id="taskForm" style="display: none;">
             <div class="taskForm">
@@ -42,11 +42,13 @@
                 </div>  
             </div>
         </form>
+        <section id="taskContainer" class="task-container">
+            <!-- Tasks will be dynamically added here -->
+        </section>
+            <div>
                 <button type="button" onclick="clearTasks()" class="clear">Clear all tasks</button>
+            </div>
                 
-                <ul id="taskList" class="task-list">
-                    <!-- Task items will be dynamically added here -->
-                </ul>
     </section>
     <script src="app.js"></script>
     </body>
