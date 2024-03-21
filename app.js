@@ -20,7 +20,7 @@ function toggleForm() {
 function addTask(event) {
     event.preventDefault(); // Prevent form submission
 
-    const taskTitle = title.value.trim();
+    const taskTitle = title.value.trim();//getting task details
     const taskDescription = description.value.trim();
     const taskTime = time.value.trim();
 
@@ -32,7 +32,7 @@ function addTask(event) {
             completed: false
         };
 
-        tasks.push(newTask); // Add the new task to the tasks array
+        tasks.push(newTask); // Adds the new task to the tasks array(the one initialized at the beginning)
         localStorage.setItem('tasks', JSON.stringify(tasks)); // Store tasks in local storage
         renderTasks(); // Render tasks again after adding the new task
         form.reset(); // Reset the form after adding task
@@ -42,14 +42,13 @@ function addTask(event) {
 
      //create a function to save tasks to local storage
      function saveTasks(){
-        const taskListitems = document.querySelectorAll(".task-list li");
+        const taskListitems = document.querySelectorAll(".task-container li");
         taskListitems.forEach(function(taskItem){
-            tasks.push({html:taskItem.innerHTML});
+            tasks.push({html:taskItem.innerHTML});//pushes the object into the tasks array
 
       })
       }
-    // Function to render tasks
-    //create a function to get tasks from local storage and display
+    //create a function to get tasks from local storage and display(rendering)
     function renderTasks() {
         const taskContainer = document.getElementById("taskContainer");
         taskContainer.innerHTML = ""; // Clear the existing task container
